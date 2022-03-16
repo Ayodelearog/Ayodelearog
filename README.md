@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayodele Arogundade.
-- 👀 I’m interested in Software Engineering, web Development.
+- 👀 I’m interested in Software Engineering, Web Development.
 - 🌱 I’m currently learning HTML/CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects that would require the aforementioned languages.
 - 📫 You can reach me on Twitter using this link (https://twitter.com/RationalMan_) and through email (Ayodelearoogundade12@Gmail.com). Thank you.
