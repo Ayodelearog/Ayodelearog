@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayodele Arogundade.
 - 👀 I’m interested in Software Engineering, Web Development.
-- 🌱 I’m currently React
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects that would require the aforementioned language(s).
 - 📫 You can reach me on Twitter using this link (https://twitter.com/RationalMan_) and through email (Ayodelearoogundade12@Gmail.com). Thank you.
 
