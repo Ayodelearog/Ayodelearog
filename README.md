@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayodele Arogundade.
 - 👀 I’m interested in building fullstack applications that create value for stakeholders.
 - 🌱 I’m currently getting better at working with T3 stack.
-- 💞️ If youre building something cool and useful, I'd love to be a part of it.
+- 💞️ If you're building something cool and useful, I'd love to be a part of it.
 - 📫 You can reach me on Twitter using this link (https://twitter.com/RationalMan_) and through email (Ayodelearoogundade12@Gmail.com). Thank you.
 
 <!---
